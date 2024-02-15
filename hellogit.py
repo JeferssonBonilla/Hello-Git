@@ -1,3 +1,3 @@
-print("New Hello Git");
+print("New Hello Git edicion github");
 
-print("Ahora estoy editando el fichero");
+print("Ahora edicion gthub");

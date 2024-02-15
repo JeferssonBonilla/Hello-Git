@@ -1,3 +1,1 @@
-print("New Hello Git");
-
-print("Modificado remotamente");
+print("Modificado desde local");
